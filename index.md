@@ -18,6 +18,7 @@ Estudiante de 6to semestre en el Tecnológico Nacional de México, campus Moreli
 
 ## Contacto
 - 📧 l23070017@morelia.tecnm.mx
-- 🐙 [GitHub](https://github.com/kevykevsss)
+- 🐙 [GitHub](https://github.com/kevssss18)
 
 ➡️ [Ver mi Cartera de Proyectos](proyectos.md)
+
