@@ -1,7 +1,7 @@
 # Kevin Manuel Rosario Berrospe
 **Estudiante de Ingeniería en Sistemas Computacionales**
 
-![Foto de Perfil]("perfil.jpeg")
+![Foto de Perfil](perfil.jpeg)
 
 ## Perfil Profesional
 Estudiante de 6to semestre en el Tecnológico Nacional de México, campus Morelia. Apasionado por el desarrollo de software, la creación de lenguajes de programación y la animación digital. Busco especializarme en Sistemas Operativos y desarrollo backend.
@@ -21,6 +21,7 @@ Estudiante de 6to semestre en el Tecnológico Nacional de México, campus Moreli
 - 🐙 [GitHub](https://github.com/kevssss18)
 
 ➡️ [Ver mi Cartera de Proyectos](proyectos.md)
+
 
 
 
