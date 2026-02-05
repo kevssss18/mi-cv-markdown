@@ -1,0 +1,19 @@
+# Cartera de Proyectos
+
+## 1. Lenguaje de Programación "GeraScrip"
+**Descripción:** Diseño y especificación de un nuevo lenguaje de programación propio. Incluye definición de sintaxis y estructura léxica.
+**Tecnologías:** Teoría de Compiladores, Diseño de Lenguajes.
+**Estado:** En desarrollo.
+
+## 2. Simulación del Test de Turing
+**Descripción:** Desarrollo de un script interactivo para simular una prueba de Turing, evaluando la capacidad de respuesta de la máquina frente a un humano.
+**Tecnologías:** Python, VS Code.
+**Fecha:** Diciembre 2025.
+
+## 3. Configuración de Servidor Ubuntu en VirtualBox
+**Descripción:** Instalación y configuración de un entorno Linux (Ubuntu) virtualizado para prácticas de sistemas operativos.
+**Tecnologías:** VirtualBox, Linux, ISO Management.
+**Fecha:** Enero 2026.
+
+---
+⬅️ [Volver al Currículum](index.md)
